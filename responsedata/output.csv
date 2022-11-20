@@ -1,0 +1,3 @@
+ResponseType,OrderID,Symbol,Side,Price,Quantity,AccountID,ErrorCode,TimeStamp,ExchangeOrderID,ChildResponseType
+NEW_ORDER_CONFIRM,123,ABC,A,157.456,10,bjEORM,123456,0,0,Temp
+NEW_ORDER_CONFIRM,123,ABC,A,157.456,10,bjEORM,123456,0,0,Temp

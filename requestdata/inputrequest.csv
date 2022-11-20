@@ -1,0 +1,3 @@
+RequestType,OrderID,Token,Symbol,Side,price,Quantity,QuantityFilled,DisclosedQuantity,OrderType,Account,Exchange,NumCopies
+NEWORDER,123456,0,IFEU_BRNFMZ0022,B,157.4000000568,5,0,5,LIMIT,bJEROM,0,0
+NEWORDER,123457,0,IFEU_BRNFMZ0022,B,157.4000000568,5,0,5,LIMIT,bJEROM,0,0
