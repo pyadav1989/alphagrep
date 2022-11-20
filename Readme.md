@@ -9,3 +9,6 @@ it generates output for each order
 
 Assumption-
 response JSON template - /responsedata/response_template.json
+
+
+ To run the project provide data in inputrequest.csv file and run execute.py file
